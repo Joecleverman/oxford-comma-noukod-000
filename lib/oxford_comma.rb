@@ -1,3 +1,4 @@
-def oxford_comma(array = ["hippo", "giraffe", "monkey", "horse"])
-["hippo", "giraffe", "monkey", "horse"].join
+def oxford_comma(array)
+array = ["hippo", "giraffe", "monkey", "horse"].join
 end
+array
